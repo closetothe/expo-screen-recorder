@@ -29,7 +29,8 @@
   "license": "MIT",
   "homepage": "https://github.com/closetothe/expo-screen-recorder#readme",
   "dependencies": {
-    "expo": "^51.0.38"
+    "expo": "^51.0.38",
+    "react-native": "0.74.5"
   },
   "devDependencies": {
     "@types/react": "^18.3.12",
